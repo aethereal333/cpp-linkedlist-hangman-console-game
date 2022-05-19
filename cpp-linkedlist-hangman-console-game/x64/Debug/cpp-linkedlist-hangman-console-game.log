@@ -1,6 +1,0 @@
-﻿  Game.cpp
-C:\Users\User\source\repos\cpp-linkedlist-hangman-console-game\cpp-linkedlist-hangman-console-game\Game.cpp(137,29): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-  Linkedlist.cpp
-  Main.cpp
-  Generating Code...
-  cpp-linkedlist-hangman-console-game.vcxproj -> C:\Users\User\source\repos\cpp-linkedlist-hangman-console-game\x64\Debug\cpp-linkedlist-hangman-console-game.exe
