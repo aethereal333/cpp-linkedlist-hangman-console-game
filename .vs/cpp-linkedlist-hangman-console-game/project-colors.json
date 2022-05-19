@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ff25bfb-85cc-4912-9d00-11e90b179d39": {
+      "ProjectGuid": "3ff25bfb-85cc-4912-9d00-11e90b179d39",
+      "DisplayName": "cpp-linkedlist-hangman-console-game",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
