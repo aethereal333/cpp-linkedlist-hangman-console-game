@@ -42,4 +42,4 @@
 *.ilk
 *.tlog
 *.lastbuildstate
-.x64/
+**/x64
